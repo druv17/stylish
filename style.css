@@ -1,0 +1,23 @@
+*{
+    margin: 10px;
+}
+html{
+    background-color: rebeccapurple;
+}
+.b1 {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+.b2 {
+    height: 400px;
+    width: 300px;
+    background-color: blue;
+    border-bottom-color: red;
+}
+.b3{
+    height: 600px;
+    width: 260px;
+    border-radius: 6px;
+    background-color: green;
+}
